@@ -1,2 +1,5 @@
-# bondarmarkolab1
-Laboratorna 1 GitHub
+# Laboratorna  1
+
+Бондар Марко Віталійович
+Ініціали: Б.М.В.
+Група: 371
